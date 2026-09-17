@@ -32,6 +32,7 @@
 17. [Team Collaboration](#-team-collaboration)
 18. [Definition of Done](#-definition-of-done)
 19. [Future Improvements](#-future-improvements)
+20. Automation:n8n -automatic customer query responses
 
 ---
 
@@ -1743,5 +1744,6 @@ Git + GitHub
     ↓
 Deployment
 ```
+
 
 > **Plan it. Build it. Test it. Ship it. 🌍**
